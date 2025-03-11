@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "angular-project007",
+    "firebase-project": "angular-project007"
+  },
+  "targets": {
+    "angular-project007": {
+      "hosting": {
+        "firebase-project": [
+          "angular-project007"
+        ]
+      }
+    }
+  }
+}
